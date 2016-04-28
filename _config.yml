@@ -1,7 +1,7 @@
 name: Blahagraphy Personal Blog
 favicon: null
-layout_spectrum: 0.49718908756040037
-typography_spectrum: 0.3062493542674929
+layout_spectrum: 0.50261
+typography_spectrum: 0.32976
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#fefdfb'
+    - '#2a2623'
+    - '#514c46'
+    - '#b8b3ad'
+    - '#8d867e'
   brandStrength: 0.7142419633455575
   lightness: 0.7124216353986412
-  saturation: 0.08586319535970688
+  saturation: 0.5
   rhythmicContrast: 0.2735570992808789
 purpose: []
